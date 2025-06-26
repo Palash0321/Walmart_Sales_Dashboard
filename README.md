@@ -21,7 +21,9 @@ The primary goal of this project was to design and implement an **interactive da
 ### **2. Data Overview & Tools**
 
 **Data Source:**
-* **Walmart Weekly Sales Data (`Walmart_Sales.csv`)**
+* **Walmart Weekly Sales Data**
+  
+    <a href = "https://github.com/Palash0321/Walmart_Sales_Dashboard/blob/main/Walmart_Sales.csv">Dataset</a>  
     * This dataset contains historical weekly sales figures, complemented by information such as store ID, date of the sales record, a flag indicating holiday weeks, average temperature, fuel price, Consumer Price Index (CPI), and the unemployment rate in the region.
 
 **Tools Used:**
