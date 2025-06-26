@@ -72,4 +72,8 @@ The dashboard is built with interactivity in mind to empower stakeholders for de
 * **Targeted Store Support:** Conduct further investigations into the factors contributing to the success of top-performing stores. Implement successful strategies from these stores across the wider network to boost overall performance.
 * **Economic Monitoring:** Continue to track economic indicators like `Unemployment`, `CPI`, and `Fuel_Price` as they may provide leading insights into potential shifts in consumer spending and sales performance.
 
+#### **Dashboard View**
+![WalmartDashboard](https://github.com/user-attachments/assets/03139a98-3800-4428-ba46-215e2c004175)
+
+
 ---
